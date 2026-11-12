@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Hassan Bauddin
+BCA student at Dharmsinh Desai University (DDU), Nadiad, Gujarat, India.
+I build practical software — currently an offline-first APMC commission-agent accounting system.
 
-<!--
-**hassanbauddin/hassanbauddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+C++ | DBMS | HTML | HTML5 | CSS | JavaScript | Microsoft Office
 
-Here are some ideas to get you started:
+## Projects
+- APMC Commission-Agent Accounting Software — Windows 11, Gujarati interface, offline-first
+- Gaming Cafe Management System — C++ OOP, menu-driven, GST billing
+- Personal Portfolio Website — minimal, premium, experimental animations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+LinkedIn: https://www.linkedin.com/in/hassan-bauddin-3862a7376
